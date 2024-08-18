@@ -1,8 +1,8 @@
 /******* Customized Bootstrap ********/
 
-$primary: #1842b6;
-$secondary: #26d48c;
-$light: #F8F8F9;
+$primary: #a1be95;
+$secondary: #f98866;
+$light: #f8f8f9;
 $dark: #000103;
 
 $font-family-base: 'Inter', sans-serif;
@@ -29,4 +29,4 @@ $link-decoration: none;
 
 $enable-negative-margins: true;
 
-@import "bootstrap/scss/bootstrap";
+@import 'bootstrap/scss/bootstrap';
